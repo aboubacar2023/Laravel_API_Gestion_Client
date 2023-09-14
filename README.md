@@ -1,2 +1,2 @@
 # Laravel_API_Gestion_Client
-Ceci est une api Rest basé sur Laravel 10. Elle a une base de données qui gère les clients et les factures.
+Ceci est une api Rest basé sur Laravel 10. Elle a une base de données qui gère les clients et les factures. Il a des fonctions de filtrages pour effectuer des recherches en fonctions des attributs des deux tables (Customer et Invoice). Les données ont été généré automatiquement en utilisant une méthode particulière (faker) dans InvoiceFactory.php et CustomerFactory.php 
